@@ -1,1 +1,1 @@
-{"LanguageTexts":[{"Code":0,"Text":"test"},{"Code":1,"Text":"test"}]}
+{"LanguageTexts":[{"Code":0,"Text":"رایتل"},{"Code":1,"Text":"Rightel"}]}
